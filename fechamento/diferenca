@@ -1,1 +1,0 @@
-A diferença entre || e ?? é que o operador || verifica se o primeiro valor é falsy e executa o segundo valor. Enquanto o ?? verifica se o primeiro valor é null ou undefined para executar o segundo valor.
